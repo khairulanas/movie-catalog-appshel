@@ -1,3 +1,3 @@
 import 'regenerator-runtime';
-// eslint-disable-next-line no-console
-console.log('Hello Coders!');
+import '../styles/style.css';
+import '../styles/responsive.css';
